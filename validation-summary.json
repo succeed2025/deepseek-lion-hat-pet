@@ -1,0 +1,121 @@
+{
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sha256": "03888904e4b1cd9f569d57e0408ec713baff23c9c5e2284b6a913b81772ca22a",
+  "encoded_bytes": 2456349,
+  "structural_validation": {
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  "quality_validation": {
+    "ok": true,
+    "errors": [],
+    "warnings": [
+      "look direction 022.5 accepted with a reviewed warning",
+      "look direction 045 accepted with a reviewed warning",
+      "look direction 067.5 accepted with a reviewed warning",
+      "look direction 247.5 accepted with a reviewed warning",
+      "look direction 292.5 accepted with a reviewed warning",
+      "270->292.5 diff is a local outlier (1782 pixels vs neighbor average 1028)"
+    ],
+    "jump": {
+      "idle_baseline": 202,
+      "jump_baselines": [
+        202,
+        189,
+        163,
+        194,
+        202
+      ],
+      "airborne_lift_pixels": 39,
+      "landing_delta_pixels": 0
+    },
+    "look_registration": {
+      "neutral_center_x": 96.0,
+      "look_centers_x": [
+        94.5,
+        94.0,
+        94.5,
+        93.5,
+        95.0,
+        93.0,
+        93.0,
+        94.0,
+        94.0,
+        95.5,
+        97.0,
+        97.5,
+        98.5,
+        97.0,
+        97.0,
+        97.0
+      ],
+      "look_widths": [
+        117,
+        118,
+        117,
+        117,
+        116,
+        116,
+        116,
+        114,
+        120,
+        115,
+        114,
+        113,
+        113,
+        112,
+        112,
+        112
+      ],
+      "maximum_center_drift_pixels": 3.0,
+      "maximum_width_ratio": 1.0714285714285714
+    }
+  },
+  "blind_direction_validation": {
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  "pets_preflight": {
+    "valid": true,
+    "file_size_bytes": 2456349,
+    "mime_type": "image/png",
+    "width": 1536,
+    "height": 2288,
+    "sprite_version": 2,
+    "cell_width": 192,
+    "cell_height": 208,
+    "frames_per_row": [
+      6,
+      8,
+      8,
+      4,
+      5,
+      8,
+      6,
+      6,
+      6,
+      8,
+      8
+    ],
+    "errors": []
+  }
+}
